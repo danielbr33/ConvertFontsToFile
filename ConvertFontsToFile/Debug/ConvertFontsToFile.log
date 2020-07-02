@@ -1,0 +1,118 @@
+﻿  main.cpp
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(70,1): warning C4010: komentarz jednowierszowy zawiera znak kontynuacji wiersza
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(167,1): warning C4010: komentarz jednowierszowy zawiera znak kontynuacji wiersza
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(264,1): warning C4010: komentarz jednowierszowy zawiera znak kontynuacji wiersza
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(207,39): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(298,1): warning C4305: "inicjowanie": obcięcie z "int" do "uint16_t"
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(207,39): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(211,45): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(211,45): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(211,54): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(211,54): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(212,12): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(212,12): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(212,21): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(212,21): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(215,22): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(215,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(215,31): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(215,31): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(230,22): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(230,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(230,31): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(230,31): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,22): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,31): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,31): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,40): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,40): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,49): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(262,49): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,2): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,2): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,11): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,11): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,20): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,20): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,29): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,29): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,38): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,38): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,47): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,47): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,56): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,56): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,65): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,65): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,74): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,74): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,83): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,83): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,92): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(266,92): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,7): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,7): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,16): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,16): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,25): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,25): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,34): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,34): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,43): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,43): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,52): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,52): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,61): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(274,61): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,7): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,7): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,16): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,16): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,25): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,25): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,34): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,34): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,43): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,43): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,52): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(277,52): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(283,7): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(283,7): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(283,16): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(283,16): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(284,54): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(284,54): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(284,63): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(284,63): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,7): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,7): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,16): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,16): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,25): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,25): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,34): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,34): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,43): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(292,43): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,31): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,31): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,40): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,40): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,49): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,49): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,58): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(294,58): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(295,27): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(295,27): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(295,36): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(295,36): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,12): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,12): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,21): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,21): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,30): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,30): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,39): warning C4838: konwersja z „int” do „uint16_t” wymaga konwersji zawężającej
+C:\Users\danie\git\ConvertFontsToFile\main.cpp(296,39): warning C4309: "inicjowanie": obcięcie stałej wartości
+  ConvertFontsToFile.vcxproj -> C:\Users\danie\git\ConvertFontsToFile\Debug\ConvertFontsToFile.exe
